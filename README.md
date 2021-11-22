@@ -1,4 +1,4 @@
-# myfirstgithub
+# MyFirstGithub
 This repository contains git and github files
 
 # This is a repository
