@@ -9,5 +9,9 @@ This repository contains git and github files
 ###### Heading6
 
 *italic type of font style*
+
 **bold type of font style**
+
 ***both bold and italic types of fonts***
+
+[Google](https://www.google.com/)
