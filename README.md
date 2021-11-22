@@ -17,3 +17,14 @@ This repository contains git and github files
 [Google](https://www.google.com/) 
 
 ![Harry Styles](http://travelcentremaldives.com/maldives-blog/wp-content/uploads/2015/03/onedirection-bg.jpg)
+
+* Fruits
+  * Orange
+  * Papaya
+  * Banana
+ 1. Vegetables
+    1. Tomato
+    2. Onions
+    3. Potato
+ 
+ 
