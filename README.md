@@ -16,4 +16,4 @@ This repository contains git and github files
 
 [Google](https://www.google.com/) 
 
-![Harry Styles](https://lovelace-media.imgix.net/getty/107211219.jpg)
+![Harry Styles](http://travelcentremaldives.com/maldives-blog/wp-content/uploads/2015/03/onedirection-bg.jpg)
